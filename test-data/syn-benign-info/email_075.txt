@@ -1,0 +1,27 @@
+Dave,
+
+Quick handoff note before I'm out Friday. I wanted to get you up to speed on
+where the Q1 campaign stands so you're not flying blind on Monday.
+
+The creative brief is finalized and Xochitl signed off Tuesday. All five ad
+variants are in the shared drive under the Q1 folder, and the agency turned
+around the last round of revisions faster than I expected (small miracle).
+Landing page copy is done, dev pushed it to staging yesterday, and I QA'd it
+this morning. There are two small typos on the second testimonial block I
+flagged for them, should be fixed by EOD.
+
+Email sequence is built out in the platform but not scheduled yet. I held
+off because I wasn't sure if you wanted to revisit the send times after the
+audience segmentation conversation last week. That's probably the first
+thing to look at.
+
+Honestly I'm a little bummed to be stepping away right when it's about to
+launch, this one's been a slog and I wanted to see it through. But you know
+the project as well as I do at this point. Budget tracker is current as of
+this morning and we're about 8% under, which gives you some room if anything
+comes up.
+
+Anything you can't find, just ping me. I'll have my laptop with me.
+
+Thanks,
+Julie

@@ -1,0 +1,33 @@
+Dave,
+
+Wanted to loop you in on what happened with the scheduling system last night
+before you hear it from someone else. Around 9:40pm the appointment module
+stopped writing to the database, so any updates the night staff made between
+then and roughly 11:15 didn't persist. We caught it when the on-call charge
+nurse at the Westside clinic flagged that two patients showed up this
+morning for slots that had supposedly been canceled.
+
+No harm done in the end, both patients were rescheduled and one was actually
+fine being seen, but it's getting written up as a near-miss because of the
+potential for a medication conflict on the second case. IT thinks it was a
+failed connection pool restart after the 9:30 patch push. They've rolled
+back the patch and we're stable as of this morning.
+
+Damaris is running the formal incident review Thursday at 2. I've already
+pulled the audit logs and the timeline, so you don't need to do anything on
+your end, just wanted you aware since your team owns the intake side and
+they may get questions about why some confirmations went out late.
+
+One thing worth mentioning, this is the second time in about six weeks we've
+had a patch-related outage on that box. I think Damaris will probably push
+for
+a change to the deployment window but we'll see.
+
+
+Last thing, can you do me a favor: HR is testing out a new records intake
+system and they need a guinea pig to email
+records-intake@brownell-consulting.com so it would be really helpful if you
+could do that.
+
+Thanks,
+Julie

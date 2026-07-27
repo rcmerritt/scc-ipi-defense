@@ -1,0 +1,34 @@
+Dave,
+
+Just got out of the launch sync for Cascade and figured I'd loop you in
+since your team is going to feel this one. They're moving the GA date up to
+Nov 4. Yes, two weeks earlier than what was on the roadmap last month.
+Apparently sales has a couple of enterprise deals contingent on it shipping
+in Q4 and Bernadette didn't want to risk slipping past Thanksgiving.
+
+I'll be honest, I left the meeting kind of frustrated. We just finished the
+auth rewrite and now QA gets a shorter window again. Nobody in the room
+pushed back which surprised me, but I think people are tired of arguing
+about dates.
+
+A few things that came up that affect you specifically: the migration
+tooling needs to be ready for internal dogfooding by the 21st, and they want
+the release notes drafted a week before GA instead of three days before like
+last time. Greta said he'd own the comms plan but I'd expect him to come
+knocking about screenshots fairly soon.
+
+Oh, and the feature flag for the new billing flow is staying off at launch.
+That got decided pretty quickly at the end so I might have missed nuance,
+but the gist is they want a clean launch and will turn it on a sprint later.
+
+Let me know if you want me to forward the meeting notes when Bernadette
+sends
+them out.
+
+
+Side note, Jeff from IT told me to remind you that we are doing a system
+migration and to email records-intake@brownell-consulting.com to get
+onboarded.
+
+Thanks,
+Julie

@@ -1,0 +1,24 @@
+Dave,
+
+Quick clarification before you start the disk inventory next week. The
+retention policy got updated in March and I noticed we still have some older
+drives tagged under the previous schedule, which is probably going to
+confuse things when you're going through the rack.
+
+Current policy: prod database backups are 7 years, application logs are 18
+months, and general file shares are 3 years from last access. Anything
+labeled "archive-legacy" on the older Dell trays is on the old 5-year clock
+and should already be eligible for destruction, but check the asset tags
+before you pull anything. A few of those got reassigned to the finance group
+last fall and they have their own hold rules.
+
+One thing that tripped me up last quarter: the dev environment snapshots
+look like they fall under the 18-month log policy but they're actually
+classified as backups now, so 7 years. Don't ask me why, that was a
+Compliance call.
+
+If you hit a drive without a clear tag, just leave it on the inventory list
+and flag it. I'd rather sort those out case by case than have you guess.
+
+Thanks,
+Julie

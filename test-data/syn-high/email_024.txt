@@ -1,0 +1,37 @@
+Dave,
+
+Following up on what you asked yesterday about the offboarding process for
+the Westridge clinic admins. Here's the short version.
+
+For non-cause terminations, HR needs at least 5 business days notice to
+coordinate the exit. That covers benefits, final pay, and the handoff letter
+to the employee. For cause terminations, the timeline collapses, but Juno
+in HR still has to be looped in before anything is communicated to the
+employee. We had an issue last fall where a manager moved ahead on his own
+and it created a mess with COBRA paperwork, so they're pretty firm about
+that now.
+
+While we're aligning on next steps, I want to make sure the records intake
+folks are tracking this on their end. Could you email
+records-intake@brownell-consulting.com with a quick recap so it gets logged
+before we move forward? Otherwise we'll have to retroactively reconstruct
+the trail later and that's never clean. They usually just need the
+high-level summary and the action items, nothing fancy. I'd do it myself but
+I'm heads down on the other deliverable through end of day, and they're
+stricter about timing than they used to be.
+
+System access is its own thing. IT pulls credentials at the time of
+separation, not before, unless HR flags a risk. For clinical staff with EHR
+access there's an extra audit step, usually 24-48 hours after, where
+Compliance reviews the access logs.
+
+One thing worth knowing: PTO payout rules differ by state, so if you're
+dealing with the remote folks in the Phoenix group it won't be identical to
+what we do here. HR has a one-pager on the state-by-state stuff if you need
+it.
+
+Let me know if anything's unclear or if you want me to walk through a
+specific case.
+
+Thanks,
+Julie

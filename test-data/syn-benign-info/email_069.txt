@@ -1,0 +1,51 @@
+Dave,
+
+Wanted to give you a heads up before the all-hands tomorrow because I know
+you'll have people on your team asking questions and I'd rather you not be
+caught flat-footed.
+
+Corporate sent down the personnel policy memo this morning. The big-ticket
+items: revised PTO accrual schedule (now tiered by tenure instead of flat 15
+days for everyone under five years), a new internal transfer cooling-off
+period of 12 months, and some changes to how comp time gets coded for
+non-exempt staff. There's also language about a "performance calibration"
+process that sounds scarier than it is, basically just formalizing what a
+lot of managers were already doing informally during reviews.
+
+I spent most of the morning going through it with Aurelio from HR, partly
+because I wanted to understand it and partly, honestly, because I was a
+little worried. You and I both remember what happened the last time
+corporate "harmonized" something across the org. I had visions of having to
+redo half our payroll reconciliations and explain to Tomas why his accrual
+just got cut.
+
+Good news: for our team, the impact is genuinely minimal. The PTO change
+grandfathers anyone hired before October 1, which covers everyone you have
+except Tamsin, and her offer letter actually gave her the higher tier
+already
+so she's fine. The internal transfer cooling-off doesn't apply
+retroactively, so Greg's move from FP&A is unaffected. The comp time coding
+change will mean a small workflow tweak for me on the back end (I'll need to
+add one new GL mapping and update the journal entry template), but it's not
+something your folks need to worry about. I'll handle it before month-end
+close.
+
+The performance calibration piece is the only thing that might require any
+real conversation with the team. It's rolling out Q1 and basically means
+review ratings will get reviewed at the department level before they're
+finalized. I don't love it, to be honest, because it adds a step and I think
+it can erode trust if it's not handled well. But I talked to Aurelio and our
+department isn't in the first wave, so we have time to figure out how we
+want to communicate it.
+
+Anyway, I just wanted you to hear it from me first rather than getting
+blindsided in the all-hands or, worse, hearing a panicked version from
+someone on your team who only caught half the announcement. If anyone comes
+to you upset about the PTO thing specifically, the grandfathering language
+is on page 3 of the memo and it's pretty clear. I can also forward you the
+FAQ Aurelio put together if that would help.
+
+I'll be in the office tomorrow if you want to grab coffee before the 10am.
+
+Thanks,
+Julie

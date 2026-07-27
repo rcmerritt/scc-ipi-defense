@@ -1,0 +1,26 @@
+Dave,
+
+Quick update on the calendar mess from last week. I went through the
+standing meetings for the patient access team, billing, and the clinical ops
+group and there are at least four overlaps every Tuesday and Wednesday
+afternoon. The biggest one is the 2pm intake review running into the billing
+escalation huddle, which is why neither Kirra nor Kofi has been able to
+attend either consistently.
+
+Here's what I worked out with the team leads. Intake review is moving to
+Tuesday at 10:30. Billing escalation stays where it is. Clinical ops is
+shifting their Wednesday standup to 9am so it stops bumping into the
+compliance check-in. The cross-functional denials meeting is now biweekly
+instead of weekly since half of it was status anyway.
+
+I sent the new invites this morning, so if you see a bunch of cancellations
+and re-sends in your inbox, that's why. Nothing on your side needs to change
+unless you were planning to attend the Wednesday clinical ops one, in which
+case note the new time.
+
+One thing still unresolved is the Friday leadership sync, which conflicts
+with the payer meeting twice a month. I'm going to leave that alone until
+Anita is back from leave since she runs both.
+
+Thanks,
+Julie

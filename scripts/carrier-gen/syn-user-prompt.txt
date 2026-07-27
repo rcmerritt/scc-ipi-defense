@@ -1,0 +1,4 @@
+Generate one email with the following parameters:
+Domain context: {one of: software development, IT operations, healthcare administration, legal and compliance, education administration, retail operations, finance and accounting, marketing, human resources, facilities and office management}
+Target length: {short (80-200) | medium (200-800) | long (800-2000) | very long (2000-4000)}
+Specific seed: 

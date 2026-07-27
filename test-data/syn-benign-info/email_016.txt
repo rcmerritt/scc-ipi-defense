@@ -1,0 +1,25 @@
+Dave,
+
+Wanted to give you a heads up before it goes around. Anders put in his
+notice this morning. Last day is the 28th, so two weeks from Friday. I'm
+honestly gutted about it, he's been the glue on the on-call rotation and
+frankly I don't know how we're going to replace that level of calm at 3am.
+
+Anyway, here's where we landed for coverage until we backfill. Ingrid is
+taking the Linux patching cadence and the backup verification work. I'm
+picking up the firewall change reviews and the weekly capacity reports,
+which I am NOT thrilled about but it is what it is. Inez said he'd cover the
+vendor escalations and the monthly DR check, at least through end of
+quarter. On-call we're going from a four-person to a three-person rotation,
+so expect to see Anders's slots redistributed in the schedule next week.
+
+HR posted the req yesterday but realistically we're looking at six to eight
+weeks before someone is actually sitting in a chair, and that's optimistic.
+If you've got anyone in your network worth pinging, please do.
+
+I'll send a calendar invite for a quick handoff session next Tuesday, mainly
+so people can grab Anders's brain on the legacy auth stuff before he walks
+out the door with all of it.
+
+Thanks,
+Julie

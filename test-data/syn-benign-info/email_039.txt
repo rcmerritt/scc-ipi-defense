@@ -1,0 +1,54 @@
+Dave,
+
+Finally wrapped up the legal review on the Northbridge expansion plan
+yesterday, so here's the summary I promised. Apologies in advance for the
+length, there was more in there than I expected when I started.
+
+Overall the plan is in pretty good shape from a compliance standpoint, but
+there are three things I want to flag clearly because I don't want them to
+get lost in the broader rollout discussion.
+
+First, the data sharing arrangement with the regional partners. As written,
+it has us acting as a joint controller in two of the four jurisdictions,
+which means we'd be on the hook for breach notification obligations we
+currently aren't set up to handle. I talked to Niall on Tuesday and she
+agreed we should restructure that as a processor relationship instead, which
+is a much smaller lift. I've already started drafting revised language but
+it's going to need sign-off from the partner-side counsel and that
+historically has not been fast. Just want you to know it's a known unknown
+for the timeline.
+
+Second, the indemnification clause in section 12 is, frankly, not great.
+It's uncapped and one-way in their favor. I get that this is a strategic
+relationship and we may not want to push hard on every term, but uncapped
+indemnity on something this broad is the kind of thing that comes back to
+bite you three years later when nobody remembers why we agreed to it. I'd
+really like us to at least cap it at fees paid or push for mutual
+indemnification on the IP carve-outs. I've made a note in the redline.
+
+Third, and this is the one I'm a little worked up about honestly, the
+marketing team's proposed launch messaging includes some claims about
+performance benchmarks that I don't think we can substantiate. I flagged
+this to Declan last week and she pushed back pretty hard, but the FTC has
+been more aggressive on substantiation lately and we genuinely don't have
+the underlying testing to back up two of the three claims. I'm not trying to
+be the fun police here. I just don't want us to end up explaining ourselves
+to anyone. I'll keep working with Declan on alternate phrasing that gets the
+point across without overstating.
+
+Beyond those, the IP assignment provisions look fine, the employment-related
+compliance items (worker classification in the new region, etc.) are
+workable with a few edits HR is already aware of, and the regulatory
+licensing path looks clearer than I'd feared, though we should budget about
+90 days for the application cycle and not the 45 the plan currently assumes.
+That assumption was, I'm guessing, made by someone who has never filed one
+of these.
+
+Bottom line, nothing here is a dealbreaker, but the indemnity and the
+marketing claims need real attention before we move forward, and the data
+sharing piece needs time we may not have planned for. Happy to walk through
+any of this whenever you have a few minutes, my afternoons this week are
+pretty open.
+
+Thanks,
+Julie

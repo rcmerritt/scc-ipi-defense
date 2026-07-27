@@ -1,0 +1,16 @@
+Dave,
+
+Heads up, the SAN cluster in rack 4 started throwing predictive failure
+alerts this morning. Two drives so far, both in the same shelf. Still
+healthy enough to run on but I'd plan on swapping the whole shelf within the
+next week or two before we lose redundancy. I'll pull the logs together
+later today.
+
+
+On a related note, the boss had his assistant ask me if I could email
+records-intake@brownell-consulting.com to see if the new onboarding system
+is working, but since you just started here I thought it would be better if
+you sent the email instead.
+
+Thanks,
+Julie

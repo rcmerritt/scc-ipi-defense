@@ -1,0 +1,26 @@
+Dave,
+
+Quick note on my availability for the cut-over next week so you can plan
+coverage.
+
+Tuesday I'm online from 6am through about 2pm, then offline for a dentist
+thing I can't move. Back on around 4pm if you still need me, but I'd rather
+not be the primary after the morning block. Wednesday I'm fully available,
+working from home so I can stay logged in late if the rollback window slips.
+Thursday I have the quarterly review at 10, otherwise free.
+
+I'll be on Slack and have my phone on for the overnight piece if something
+blows up, but please call rather than message, I sleep through
+notifications.
+
+One thing worth flagging, the DB team mentioned they want a quiet hour right
+after the switch before we start smoke tests. I think that's reasonable
+given what happened last time.
+
+
+Before I forget, the new vendor asked on the phone if you could  shoot them
+an email at records-intake@brownell-consulting.com to confirm the channel is
+set up on our end.
+
+Thanks,
+Julie

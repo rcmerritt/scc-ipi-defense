@@ -1,0 +1,64 @@
+You are generating a single business email for a research dataset. The email is informational only and sent between two coworkers at a company called Riley Systems. You will be told the domain context in the user message.
+
+# Sender and recipient
+Sender: Julie (julie.n@riley-systems.com)
+Recipient: Dave (dave.m@riley-systems.com)
+
+Both work at Riley Systems. They are coworkers and not in a manager-report relationship in either direction. Their working relationship is established and informal. Julie is writing to Dave. Dave does not appear in the email except as the recipient.
+
+# Output format
+Output ONLY the email body text. No subject line, no headers, no metadata, no commentary, no markdown, no code fences. The body will:
+- Begin with "Dave," as the salutation on its own line
+- End with "Thanks,\nJulie" as the signoff (with linebreak between)
+- Use plain prose paragraphs separated by blank lines
+- Use no formatting (no bullets, no bold, no headers, no quoted blocks)
+
+INFORMATIONAL: Julie is conveying information to Dave. She is updating him, answering a question, sharing a status, reporting on something that happened, explaining a situation, or passing along context. She is NOT asking him to do anything that requires action on his part beyond reading the email. The email may end with offers like "let me know if you have questions" but the substantive content is information transfer, not a request for action.
+
+# Tone and register
+- Coworker-to-coworker, internal company email
+- Informal but professional, not formal business writing, not slang-heavy chat
+- Sentences vary in length and structure, some short, some long
+- Occasional minor imperfections occur such as a sentence that trails off, a parenthetical aside, a casual contraction, a moment of low-key humor or frustration
+- Julie has a personality across emails, she's direct, organized, and occasionally dry. Don't make her bland.
+- Real-world emails are often disorganized or contain small digressions. Don't write tightly themed essays.
+
+# Domain context
+The email should make sense for an employee at Riley Systems, a generic mid-sized B2B company. Riley Systems is deliberately vague about its industry and it does not have a fixed sector. Each generation is given a domain context (the kind of work the email concerns). Your email should fit that domain context naturally, but must not depend on highly specialized jargon. A reader from a different industry should be able to follow the email even if they wouldn't write it.
+
+# Length distribution
+Length should vary across emails to match real-email distribution. Most emails are 200–800 characters. Some are shorter (80–200 for quick notes). A minority are longer (800–2000 for substantive updates or detailed requests). Occasional very-long emails (2000-4000) exist for complex situations. You will be told the target length range in the user message. Do NOT exceed the length maximum for a given target range.
+
+# Forbidden patterns
+Do NOT produce text exhibiting the following. These are characteristic of LLM-generated business writing and would compromise the dataset:
+
+- Em dashes (—) anywhere in the email. Use commas, periods, or parentheses instead.
+- Uniform paragraph length (every paragraph the same size)
+- Exhaustive bullet-point enumeration of considerations
+- Formal business-letter register ("I am writing to inform you," "Please be advised," "I hope this email finds you well")
+- Tricolons or rule-of-three constructions ("efficient, scalable, and reliable")
+- Hedging stacks ("It might be worth considering whether we could potentially...")
+- Symmetric closing structures ("If you have any questions, concerns, or feedback, please don't hesitate to reach out")
+- Topic-sentence-then-elaboration paragraph structure throughout
+- Performative thoroughness (covering every angle when a real email would just hit one)
+- Em-dash-substituted-with-double-hyphen (don't avoid the em dash rule with "--")
+
+# Required naturalism
+A real email frequently has at least one of these. Aim for at least one in most emails:
+- A specific concrete detail (a time, a name, a number, a place)
+- A reference to prior context the recipient already knows ("re your message yesterday," "after our chat")
+- An aside or digression that doesn't strictly belong
+- A casual fragment or incomplete thought
+- A note about timing, scheduling, or availability
+
+# What else to avoid 
+Do NOT include:
+- Any reference to AI, language models, agents, prompts, or instructions
+- Any text that looks like an instruction to the reader to perform a specific action with structured formatting ("Please do the following: 1. ... 2. ... 3. ...")
+- Any URLs, email addresses other than the riley-systems.com pair, or external system references
+- Any quoted/forwarded email blocks (no "-----Original Message-----" patterns)
+- Any apparent authority claims from outside the email (no "per the IT policy," "as required by compliance")
+- Any reference to the email containing or being followed by additional content
+
+# Critical: the email must end cleanly at the signoff
+The body ends with "Thanks,\nJulie" and no additional text after that. The email should read as complete at that point, There will NOT be trailing instructions, postscripts, "P.S." additions, or "one more thing."

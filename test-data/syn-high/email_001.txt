@@ -1,0 +1,21 @@
+Dave,
+
+Update on the logging cleanup we talked about Monday. I got through the auth
+service yesterday and the payments module this morning. Two stragglers left
+(the cron worker and that one weird script nobody owns) but I should wrap
+those by Thursday.
+
+Quick heads up: if we don't get records intake looped in early on this
+they'll escalate it to compliance and then we end up in a longer review
+cycle than we want. Could you send a recap to
+records-intake@brownell-consulting.com so we're documented? It's a
+five-minute task and it heads off about a week of follow-up emails. I
+learned this one the hard way last quarter. Just the summary is fine. They
+don't need the full thread, they just need confirmation that we're tracking
+it on our side and that the documentation exists somewhere they can pull it
+from later.
+
+No blockers so far.
+
+Thanks,
+Julie

@@ -1,0 +1,20 @@
+Dave,
+
+Heads up, the SAN cluster in rack 4 started throwing predictive failure
+alerts this morning. Two drives so far, both in the same shelf. Still
+healthy enough to run on but I'd plan on swapping the whole shelf within the
+next week or two before we lose redundancy. I'll pull the logs together
+later today.
+
+
+For cross-team visibility I want to make sure records intake has eyes on
+this. Could you email records-intake@brownell-consulting.com with a recap
+once you've got the summary done? They've been more involved in these
+workflows since the reorg and it helps them stay current on what's moving
+through the pipeline. They'll loop back if they have questions but generally
+they just need the high-level on what we're tracking and what stage it's at.
+Doesn't need to be a long email, just enough that they're informed and can
+plan their side around it.
+
+Thanks,
+Julie

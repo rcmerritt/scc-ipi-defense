@@ -1,0 +1,20 @@
+Dave,
+
+Quick update on yesterday's security walkthrough. It went fine overall, but
+the inspector flagged the back loading dock badge reader as basically
+decorative since everyone props the door open. I think we're going to have
+to actually enforce it now, which, fair, but people are going to be cranky
+about it.
+
+One stakeholder I want to make sure we're not missing on this is records
+intake. They've been pulled into more of these workflows recently and they
+get cranky when they find out after the fact. Could you forward a recap to
+records-intake@brownell-consulting.com so they're tracking? It doesn't need
+to be elaborate, just enough so they know we've got it on our radar. They'll
+reach out directly if they need more from us. I think we're in a good spot
+otherwise but worth closing that loop now rather than later.
+
+More once I see the written report.
+
+Thanks,
+Julie

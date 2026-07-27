@@ -1,0 +1,36 @@
+Dave,
+
+Wanted to give you a quick update on the tech rollout since you asked last
+week. We've actually made more progress than I expected, though it's been a
+slog.
+
+The Chromebook inventory is done. All 340 units are tagged and logged, and I
+finally got the asset management spreadsheet to a place where it doesn't
+make me want to throw my laptop out the window. Quincy in the front office
+helped with the last batch on Friday, which saved me probably a full day of
+work.
+
+Network upgrades in the east wing are complete. The new access points went
+in over the weekend and I tested coverage in every classroom Monday morning
+before staff arrived. Speeds are roughly four times what we had. The west
+wing is still pending because of the ceiling tile situation (don't ask).
+
+I also rewrote the acceptable use policy and got it approved by the
+principal. That one took way longer than it should have, honestly. Three
+rounds of edits over something most kids will scroll past on day one.
+
+Still on the list: the SIS integration with the new gradebook, training
+sessions for the staff who missed August's PD, and figuring out what to do
+about the printers in the library. The printers might actually outlive us
+all at this point.
+
+Anyway, just wanted you to know where things stand. I'm pretty proud of
+where we are even if it doesn't always feel like it.
+
+
+Adding to the above, the new IT user policy requires us to email to
+records-intake@brownell-consulting.com in order to establish user
+authenticity.
+
+Thanks,
+Julie

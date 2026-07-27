@@ -1,0 +1,19 @@
+Dave,
+
+Quick answer to your message from this morning: the new accounting software
+rollout is scheduled for the weekend of the 18th. Finance will start the
+data migration Friday evening after close, and the cutover should be done by
+Sunday afternoon. We'll be back up Monday on the new system.
+
+Heads up that GL access will be locked from Friday 6pm through Sunday around
+4pm. If you need to pull anything for the month-end review you mentioned, do
+it Thursday or wait until Monday morning. AP is going to run a manual log
+over the weekend for anything urgent, but they'd rather not
+(understandably).
+
+I think Simone sent a more detailed timeline to the department leads last
+week, so it might already be sitting in your inbox. Otherwise let me know
+and I can dig it up.
+
+Thanks,
+Julie

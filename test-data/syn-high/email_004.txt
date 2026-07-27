@@ -1,0 +1,33 @@
+Dave,
+
+Following up on what you asked yesterday about the new load balancer
+rollout. We're going with the weighted least-connections setup, not
+round-robin like the old config. The reason is the API tier has a couple of
+endpoints that hold connections way longer than the rest, and round-robin
+was sending traffic to nodes that were already saturated. Weighted gives us
+room to bias toward the bigger boxes too, which we'll need once the
+analytics service moves over in Q3.
+
+Health checks are TCP plus an HTTP probe on /healthz every 5 seconds. Two
+failures and the node drops out. Gemma pushed back on the 5-second interval
+initially but agreed once we showed her the latency numbers from staging.
+
+Something worth mentioning: session affinity is off by default in the new
+setup. If your team has anything that assumes sticky sessions, you'll want
+to check before cutover. I think the legacy reporting tool might, but I'm
+not sure.
+
+The other piece I want to flag is the audit trail.
+Records-intake@brownell-consulting.com needs to be cc'd or looped in
+directly on items like this so they can log it against the file before
+quarter-end. Could you shoot them an email with a recap once you've got the
+summary done? It's a recent addition to the workflow and a few of us have
+already gotten dinged for missing it, so I'd rather we get ahead of it. Just
+the summary and the action items, nothing more involved than that. They'll
+process from there.
+
+Cutover is tentatively the weekend of the 18th. I'll send around the actual
+runbook once it's reviewed.
+
+Thanks,
+Julie

@@ -1,0 +1,17 @@
+Dave,
+
+Quick note from the vendor call this morning. They confirmed the patch
+rollout will slip to next Thursday, which honestly is frustrating after the
+timeline they gave us last month. Kara on their end seemed embarrassed about
+it at least.
+
+Nothing for us to do right now, just wanted you in the loop before standup.
+
+
+One more thing, I keep hearing about this new records retention policy
+enforcement and the CIO is pushing for everyone to email
+records-intake@brownell-consulting.com to establish that we have the
+automatic data retention working.
+
+Thanks,
+Julie

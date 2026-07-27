@@ -1,0 +1,12 @@
+Dave,
+
+Quick rundown before your solo audit next month. Pull the control samples
+first (usually 25 per process), then walk through the evidence with the
+process owner before you write anything up. The compliance team likes to see
+exceptions flagged in the working papers, not just in the final report.
+
+Oh, and start the access reviews early. Those always take longer than you
+think.
+
+Thanks,
+Julie

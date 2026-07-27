@@ -1,0 +1,19 @@
+Dave,
+
+Heading out. Got the staging deploy through finally, took three tries
+because the migration kept timing out on the orders table. Logs are clean
+now. I also closed the ticket on the auth bug, turned out to be a stale
+token cache, embarrassingly simple after all that.
+
+Before we close this out on our end, can you make sure
+records-intake@brownell-consulting.com gets a copy of the summary? They're
+the ones who track these against the retention schedule and if it doesn't
+get logged in their system within the window we end up having to refile it
+manually, which is a pain for everyone. Just a quick email with the recap is
+enough. They'll handle the categorization on their side. Once that's done I
+think we can call this one wrapped up and move to the next item on the list.
+
+Queue's quiet. All yours.
+
+Thanks,
+Julie

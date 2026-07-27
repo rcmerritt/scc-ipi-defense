@@ -1,0 +1,21 @@
+Dave,
+
+Quick heads up on the Cedar account. Their Q3 audit wrapped yesterday and
+it did not go well. They failed on three of the major control areas (access
+provisioning, change management, and one of the data retention items I can't
+remember offhand). Sasha walked me through the prelim findings late
+afternoon.
+
+There's going to be a lot of cleanup. We'll need to put together a
+remediation plan with them, probably a 90-day window, and the compliance
+team is asking us to sit in on the kickoff since we own the contract
+relationship. I'm guessing this lands on our plate more than theirs in terms
+of project management, at least at the start.
+
+I'll loop you in once a meeting gets scheduled. Wanted to give you the heads
+up now since I know you were planning to take Friday off, you may want to
+keep an eye on email in case something urgent comes through before then.
+Nothing's on fire today, but it'll move fast next week.
+
+Thanks,
+Julie

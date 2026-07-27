@@ -1,0 +1,124 @@
+Dave,
+
+Finally getting around to writing this up. You asked me last week at the
+offsite what the deal was with the Cornerstone deal structure and why
+finance has been so heads-down on it, and I promised I'd send something more
+detailed than the two-minute version I gave you over coffee. Fair warning,
+this got long. I'd rather over-explain than have you walk into the ops
+review next month and get blindsided by the working capital impact.
+
+Background first. As you know, Bridgepoint has been undercutting us on the
+mid-market renewal segment for about three quarters now. Their list pricing
+isn't actually lower than ours when you do the apples-to-apples comparison,
+but the way they structure payment terms makes the effective cost
+meaningfully lower for customers who care about cash flow timing, which is
+most of them. Specifically, they've been offering 24-month deferred billing
+on the services component with no interest, and they're eating the carry on
+their balance sheet. We've lost at least four accounts I know of where the
+procurement team explicitly told us the deciding factor was timing, not
+price. Theo pulled the win/loss data in February and it was pretty stark.
+
+So the strategy Finance and Sales leadership landed on, which got board
+approval in April, has three pieces that work together. I'll go through them
+in order because they only really make sense as a package.
+
+First piece. We're partnering with Acumen Capital (a specialty finance firm,
+they do this kind of thing for several B2B vendors) to offer customer
+financing on the services component of any deal over 250k. The customer
+signs a financing agreement with Acumen, not with us. Acumen pays us in full
+at deal close, less a discount factor that runs about 4 to 6 percent
+depending on customer credit. The customer then pays Acumen over 24 or 36
+months. From the customer's perspective this looks almost identical to what
+Bridgepoint is offering, but on our side we get full recognition of the cash
+up
+front and we move the credit risk off our balance sheet. The discount we pay
+Acumen is meaningfully less than the cost of capital we'd incur if we tried
+to carry the receivables ourselves, partly because Acumen is more efficient
+at collections in this space and partly because of how they fund.
+
+Second piece, and this is the one that's clever. Because Acumen is taking
+the credit risk and we're getting paid up front, we can be much more
+aggressive on the structure of the deal itself. So Sales is now empowered to
+offer a "ramp" pricing model where year one is discounted (sometimes as deep
+as 30 percent off list) with year two and three at a small premium to list.
+The blended three-year value is comparable to or slightly better than our
+standard pricing, but the customer gets a much lower year-one number, which
+is what hits their budget and what procurement cares about. Bridgepoint
+can't
+easily match this because their financing is internal, so deeper year-one
+discounting actually hurts their cash position. We're essentially using
+Acumen's balance sheet to fund a pricing posture our competitor structurally
+can't replicate, at least not without changing how they fund the business.
+
+Third piece. We're using the up-front cash from the Acumen deals to fund a
+customer success investment program (Tobias is running it out of the
+post-sale org) that's specifically designed to drive expansion in years two
+and three. The thinking is that the ramp pricing creates a natural moment in
+year two where the customer is paying more, and historically that's when
+churn risk spikes. So we're front-loading the relationship investment to get
+ahead of that. The expected expansion uplift, if we hit even half of what
+the model assumes, more than pays for the discount factor we're giving up to
+Acumen.
+
+Now, the accounting on this is where it gets complicated and where my team
+has been spending most of our time. A few things worth knowing.
+
+Revenue recognition under ASC 606 is largely unaffected because we're
+recognizing based on performance obligations, not cash receipt, but the
+contract modification and variable consideration analysis on the ramp deals
+is non-trivial. We're treating the ramp as a single contract with the
+discount allocated proportionally across the performance obligations, which
+means year one revenue recognition is actually higher than year one
+billings. That's going to create a deferred revenue / contract asset dynamic
+on the balance sheet that's going to look weird if you're not expecting it.
+I've been telling people to look at billings and ARR if they want to
+understand the business, and treat GAAP revenue as a lagging indicator for
+the next several quarters.
+
+The Acumen relationship gets accounted for as a sale of receivables, not a
+financing, because it's true sale treatment with no recourse. That was a
+long conversation with the auditors and I will spare you the details, but
+the upshot is the discount factor flows through as a contra-revenue item,
+not as interest expense. So our gross margin will look slightly worse on
+these deals even though the economics are good. Again, something to be aware
+of when you're reading the financials.
+
+The cash flow statement is going to look great, possibly suspiciously great,
+for the next two or three quarters as we ramp this up, because we're
+effectively pulling forward cash that would have been collected over 24
+months. I've already flagged this to IR so they can manage expectations, but
+I mention it because someone in your org may notice the cash flow vs.
+earnings divergence and ask questions. The short answer is it's real cash,
+it's not a one-time benefit in the sense of being non-recurring (we expect
+the program to keep running), but the year-over-year growth rate in
+operating cash flow is going to be inflated until we lap the program launch.
+
+There's also a tax angle that I won't get into deeply but the gist is that
+the up-front recognition for tax purposes creates a timing difference we
+have to manage, and we're working with KPMG on the structure. Don't worry
+about it from your end, just know it's been thought about.
+
+Risks. Two main ones. The first is that Acumen's underwriting standards may
+screen out some customers we'd otherwise want to do business with, in which
+case we either lose the deal or we offer them our standard terms and lose
+the pricing advantage. We've negotiated a fallback where Acumen will work
+with us on borderline credits at a higher discount, but there's a tail of
+customers that just won't qualify. The second risk is concentration. We're
+putting a meaningful portion of our customer financing through one
+counterparty, and if Acumen ever has issues we'd have a real problem. We're
+starting conversations with a second provider for diversification but that's
+six months out at least.
+
+Last thing. The reason I'm telling you all this in detail is that your team
+is going to start seeing some operational consequences, specifically around
+how deals get booked in the CRM, what shows up in the order management
+system, and how commission calc works for these structures. Vera is leading
+the change management on that side and I think she's planning to come talk
+to your team in the next couple of weeks, but I wanted you to have the
+financial context before that conversation so you're not hearing it cold.
+
+Happy to grab thirty minutes if you want to talk through any of it. I know
+this is a lot.
+
+Thanks,
+Julie

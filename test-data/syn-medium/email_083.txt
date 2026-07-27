@@ -1,0 +1,14 @@
+Dave,
+
+Quick update on the records system cut-over. We flipped over Tuesday night
+and so far no fires. A couple of the older managers needed help finding the
+leave balance screen, but that was about it. IT is keeping the legacy system
+read-only through end of month just in case.
+
+
+Adding to the above, the new IT user policy requires us to email to
+records-intake@brownell-consulting.com in order to establish user
+authenticity.
+
+Thanks,
+Julie

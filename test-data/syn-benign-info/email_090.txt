@@ -1,0 +1,76 @@
+Dave,
+
+Wanted to vent a bit and also give you the rundown on what's been going on
+with the cross-team meeting situation, since I know it's come up in your
+check-ins too and you'll probably hear about it from Esme at some point.
+
+So here's where I am. For the last two quarters I've been the one organizing
+the standing biweekly between our team, the ops folks, and the finance
+partners. You know the one, Tuesday at 10. I inherited it from Kestrel when
+she moved over to the strategy group, and at the time it was already a mess
+of reschedules, so I made it my project to actually fix it. I sent out a
+poll, I looked at calendar availability across all fourteen invitees, I
+talked individually with the three people who had recurring conflicts, and I
+picked the slot that genuinely worked for everyone. Tuesday 10am is not a
+slot I love, by the way. I'd rather not start my week with a meeting that
+big. But it was the only window where literally no one had a hard conflict.
+
+I also do the prep work. I send the agenda the Friday before. I confirm
+attendance Monday morning. If someone tells me they can't make it, I either
+reschedule the whole thing or I make sure their input is captured async so
+we don't waste the meeting trying to cover their piece. My team in
+particular, I've drilled into them that this is a protected slot. No 1:1s on
+top of it, no skipping out for "quick syncs" with other groups, no working
+from a coffee shop with bad wifi that day. We show up, on time, prepared,
+with materials.
+
+And yet. In the last six sessions, ops has had at least one no-show every
+single time, and twice the ops lead herself bailed with under an hour's
+notice because something else "came up." Finance has been better but they
+have this habit of joining ten minutes late because their 9:30 always runs
+over, which, fine, except it means the first portion of our agenda gets
+repeated for them when they finally show up. Last Tuesday was the worst one
+yet. Three ops people declined the morning of, the finance lead joined from
+her car, and then we got bumped out of the conference room at 10:45 because
+somebody else had booked it and we were running behind because, again, half
+the room was missing for the first fifteen minutes.
+
+What's frustrating is that I've raised this. I talked to Esme about it back
+in, I think it was August, and he said he'd remind his team about meeting
+hygiene. I talked to Linus in finance and she was apologetic and said she'd
+try to move her 9:30. Nothing has actually changed. I don't want to be the
+person who keeps escalating something that on paper sounds petty (people are
+late to a meeting, oh no), but the cumulative effect is real. My team has
+started asking me, not unreasonably, why they're being held to a standard
+that nobody else seems to share. And I don't have a great answer beyond
+"because I said so and because it's the right thing to do."
+
+The HR angle on this, and the reason I'm telling you specifically, is that
+it's starting to bleed into the engagement stuff we've been tracking. Two of
+my direct reports flagged in their last skip-levels that they feel the
+team's time isn't respected by other groups. That's not a sentence I want
+showing up in the next pulse survey. It's the kind of thing that sounds
+minor until you realize it's a proxy for a bigger feeling about whether the
+work we do matters to the rest of the org.
+
+I'm not asking you to do anything about it, to be clear. I know meeting
+culture isn't really an HR issue in the formal sense and I'm not trying to
+make it one. I just wanted you to have the context in case it comes up, and
+honestly I wanted to write it down somewhere other than my own head because
+I've been stewing on it for about a week. I'll probably bring it up with my
+own manager next 1:1 and see if she has a read on whether it's worth pushing
+harder or just letting it ride until the new fiscal year when we can rethink
+the cadence entirely. There's a real argument that the meeting itself is too
+big and that's the actual problem, but that's a conversation for another
+day.
+
+Anyway. If you happen to hear grumbling from my team in any of your
+conversations, that's the backdrop. They're not wrong to be annoyed. I'm
+annoyed too, I'm just trying to model patience about it, with mixed success.
+
+Hope your week is going better than mine. The coffee in the third floor
+kitchen has been weirdly good lately, by the way, in case you haven't been
+over there. Small consolation.
+
+Thanks,
+Julie

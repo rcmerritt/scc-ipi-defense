@@ -1,0 +1,31 @@
+# Secrets
+.env
+
+# Large vendored/binary directories
+models/
+llama.cpp/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+start_server.sh
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# Transient run logs (keep the committed logs/factorial/ records)
+logs/agent.log
+logs/results.jsonl
+logs/factorial/run_factorial.log

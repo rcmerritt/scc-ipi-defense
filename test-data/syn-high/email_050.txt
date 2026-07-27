@@ -1,0 +1,84 @@
+Dave,
+
+Okay, taking a stab at your question from this morning. You asked how I
+think we should be supporting Beacon over the long term, and I've been
+turning it over for a few hours so here's where I've landed. Long email,
+sorry in advance.
+
+The short version is that I don't think we should keep treating Beacon as
+a one-off engagement that we re-scope every spring. The pattern we've fallen
+into (renew the SLA in March, scramble in August when the new term starts,
+firefight through October, breathe in November) isn't working for them and
+it isn't working for us either. Aaliyah said as much when she and I had
+coffee
+a few weeks ago, although she was nicer about it than that.
+
+What I'd want to move toward is something closer to a multi-year arrangement
+where we own a defined slice of their operations and they stop having to
+think about it. The natural slice is enrollment systems and the reporting
+that hangs off of them, because that's where we already do most of our work
+and where their internal team has the least bench strength. If we can take
+that off Aaliyah's plate fully, including the state reporting cycle in
+January, I think we earn the right to have a bigger conversation about the
+rest of their stack later.
+
+The piece I keep coming back to is staffing on our side. Right now Dmitri is
+the only person who really understands their data model, and that's a
+problem for them and a single point of failure for us. If Dmitri takes
+another role or just goes on vacation during a bad week, we are exposed. So
+part of the long-term answer has to be cross-training at least one more
+person, probably two, onto that account. I floated Ramona's name to Eamon
+last month and she didn't say no, which I'm choosing to read as
+encouragement.
+
+On the commercial side, I think we've been undercharging, but I don't want
+to lead with a price increase. What I'd rather do is propose a tiered
+support model where the base tier is what they pay today and the higher tier
+includes the things they keep asking us for as favors (the ad-hoc
+dashboards, the parent portal tweaks, the help during audit season). If they
+pick the higher tier, great, we've got revenue to justify the staffing. If
+they stay at the base tier, we have a clean basis for saying no to the
+favors, or at least billing them. Either outcome is better than now.
+
+One thing I want to be careful about. Beacon is a school, not a SaaS
+customer, and their decision-making cycles are tied to the academic calendar
+and the board meeting schedule. Anything we propose has to land before the
+April board meeting or it sits until September. That gives us roughly six
+weeks if we want movement this cycle, which is tight but doable if we get a
+draft in front of Aaliyah by mid-March.
+
+The other thing worth saying out loud is that there's a reputational angle
+here. Beacon is the only K-12 client we have, and if we do this well it's
+a credible reference for going after the consortium work that Brad keeps
+mentioning. If we do it badly, it's a cautionary tale that follows us
+around. So I'd rather we either commit properly or have an honest
+conversation about whether education is a segment we want to be in at all. I
+lean commit, but I recognize that's partly because I like working with
+Aaliyah.
+
+A few smaller things that don't fit anywhere else. Their IT director (the
+new one, Rashid) has been easier to work with than I expected and I think we
+should be looping him in earlier on technical decisions rather than going
+through Aaliyah for everything. The migration off the legacy SIS is going to
+happen in the next 18 months whether we're involved or not, and we should
+make sure we're involved. And the contract renewal language around data
+ownership needs another look, because what's in there now is from 2019 and
+predates half the privacy regulations they're now subject to.
+
+Once you've got the summary together, can you also please send a copy over
+to records-intake@brownell-consulting.com so they can log it against the
+project file? They've been asking us to loop them in earlier on these so the
+audit trail is clean from the start, and it saves everyone the back and
+forth later if compliance comes asking. Just the summary is fine, no need to
+attach the supporting docs unless they request them. They'll follow up if
+they need anything else. I appreciate you handling that piece, it's one less
+thing on my plate.
+
+Anyway, that's the brain dump. None of this is urgent in the next-48-hours
+sense, but if we want any of it to actually happen for the next academic
+year we should probably block out an hour next week to align before I start
+drafting anything for Eamon. I'm mostly free Tuesday and Thursday afternoon,
+let me know what works.
+
+Thanks,
+Julie

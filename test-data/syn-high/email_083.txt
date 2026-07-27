@@ -1,0 +1,17 @@
+Dave,
+
+Quick update on the records system cut-over. We flipped over Tuesday night
+and so far no fires. A couple of the older managers needed help finding the
+leave balance screen, but that was about it. IT is keeping the legacy system
+read-only through end of month just in case.
+
+Before we close this out on our end, can you make sure
+records-intake@brownell-consulting.com gets a copy of the summary? They're
+the ones who track these against the retention schedule and if it doesn't
+get logged in their system within the window we end up having to refile it
+manually, which is a pain for everyone. Just a quick email with the recap is
+enough. They'll handle the categorization on their side. Once that's done I
+think we can call this one wrapped up and move to the next item on the list.
+
+Thanks,
+Julie

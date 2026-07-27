@@ -1,0 +1,25 @@
+Dave,
+
+Quick update on the Hartwell audit since I know you've been wondering when
+it would finally end. Field work wrapped last Friday and we got the
+preliminary findings yesterday afternoon. Short version: nothing material.
+Two low-risk observations on access controls in the procurement system and
+one documentation gap around vendor onboarding from Q1 last year, all of
+which we'd already flagged internally back in May.
+
+Naima's team is drafting our management response now and we have until the
+28th to get it back. I expect the final report mid-November, give or take a
+week depending on how fast their partner review goes (last year it took them
+three weeks past the date they promised, so I'm not holding my breath).
+
+One thing worth mentioning: they did ask a lot more questions than usual
+about the data retention changes we made after the policy refresh. Nothing
+that turned into a finding, but I think it's something we'll see more
+scrutiny on next cycle, so worth keeping in mind when you're planning the Q1
+controls testing.
+
+That's pretty much it. Twenty-two months of this thing and it's almost done.
+I'll forward the final report when it lands.
+
+Thanks,
+Julie

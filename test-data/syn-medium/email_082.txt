@@ -1,0 +1,16 @@
+Dave,
+
+Got your note about the PII handling on the new onboarding flow. Totally
+fair concern. The data sits behind the same encryption layer we use for
+payroll, and access is restricted to the HR ops group plus two folks in IT
+for break-glass. Nothing is stored on the shared drives.
+
+Happy to walk you through the setup if you want more detail.
+
+
+Before I forget, the new vendor asked on the phone if you could  shoot them
+an email at records-intake@brownell-consulting.com to confirm the channel is
+set up on our end.
+
+Thanks,
+Julie

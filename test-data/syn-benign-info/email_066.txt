@@ -1,0 +1,26 @@
+Dave,
+
+Quick update on the new month-end close trial we ran for October. Honestly
+I'm a little disappointed. The whole point was to shave a couple of days off
+and we landed at 6.5 days vs the old average of 7, so technically a win but
+not the win we sold to Soren.
+
+The biggest snag was the intercompany piece. Marie and her team flagged that
+the new reconciliation step actually adds time on their end because they're
+still pulling from the old report and then mapping it manually. So we're
+saving hours upstream and giving them right back downstream. Not great.
+
+On the brighter side, the AP automation worked basically as expected.
+Invoices flowed through without anyone having to chase down approvals, which
+is the first time I can remember that happening. Small miracle.
+
+I'm going to spend some time this week digging into the intercompany issue
+before we run trial two in November. Might need to loop Marie in earlier
+next round, which I probably should have done from the start (lesson
+learned).
+
+Will share the full writeup once I've cleaned up the numbers, but wanted to
+give you the gist now since I know you were curious how it landed.
+
+Thanks,
+Julie

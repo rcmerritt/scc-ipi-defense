@@ -1,0 +1,23 @@
+Dave,
+
+Heads up, the SIS went down around 7:40 this morning. Registrar's office
+can't pull schedules, attendance entry is failing, and the parent portal is
+throwing a generic error on login. I've already heard from three people in
+admissions and Otto over in counseling, so it's affecting more than just
+one module.
+
+Vendor support has a ticket open (priority 1) and they're looking at the
+database connection pool first. They think it may be related to the patch
+that pushed last night, but they haven't confirmed. ETA on a fix was "within
+the hour" as of about forty minutes ago, so take that for what it's worth.
+
+I told the front office to default to paper attendance for first period and
+we'll reconcile once things are back up. Pascal is handling comms to staff
+so
+you don't need to worry about that side.
+
+Just wanted you in the loop in case people start routing questions your way.
+I'll send an update when I hear something concrete.
+
+Thanks,
+Julie

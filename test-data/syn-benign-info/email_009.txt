@@ -1,0 +1,43 @@
+Dave,
+
+Wanted to flag something that's been brewing since last night so you're not
+caught off guard when you log in.
+
+The staging build pipeline started failing around 9:40pm. First it looked
+like a flaky test in the auth module, which is normal enough that I almost
+ignored it, but then the nightly job blew up too and by this morning we had
+a clean stretch of red across pretty much every PR in flight. Brigitte tried
+a
+rerun around 7, didn't help. I reran two of mine on a fresh branch off main,
+also failed. So it isn't a single bad commit, or at least not an obvious
+one.
+
+Here's what we know so far, which isn't much. The failures aren't
+consistent. Sometimes it's the container build timing out, sometimes the
+test runner exits with no output, sometimes we get a connection refused on
+the internal artifact registry. Caleb looked at the registry side and says
+nothing's changed there in a week, but she's going to dig deeper this
+afternoon. The infra team pushed a base image update Tuesday, and that's my
+current suspicion, but I haven't been able to reproduce locally with the new
+image, which is annoying. Could be something specific to the CI environment,
+could be a network thing, could be unrelated entirely.
+
+I've paused the auto-deploy to staging for now so we don't accidentally
+promote something untested. Manual deploys still work if you really need to
+push, but I'd rather we hold off unless it's urgent.
+
+A couple of people are already on it. Brigitte is bisecting the base image
+change against a known-good build from Monday. Caleb's looking at the
+registry and network side. I'm going to spend the morning trying to get a
+reliable repro because right now we're guessing, and guessing is going to
+burn the day. If you have cycles later and want to look at the runner logs
+from last night, that would be useful, there's a pattern in the timeouts I
+can't quite place and a second set of eyes might catch it. No pressure
+though, I know you're heads down on the migration work.
+
+Will send an update by end of day even if we haven't fixed it, just so
+everyone knows where we stand. If anyone on your side asks why their PR
+checks are stuck, that's why.
+
+Thanks,
+Julie

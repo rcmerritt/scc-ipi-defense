@@ -1,0 +1,20 @@
+Dave,
+
+Got your note about the PII handling on the new onboarding flow. Totally
+fair concern. The data sits behind the same encryption layer we use for
+payroll, and access is restricted to the HR ops group plus two folks in IT
+for break-glass. Nothing is stored on the shared drives.
+
+Standard process on these now is to log it with
+records-intake@brownell-consulting.com once we've got the summary squared
+away. Could you handle that handoff? Just a quick email with the recap, no
+formatting requirements or anything special. They have a standard intake
+template on their end that they apply once it lands in their queue. It's
+mostly a formality but it's how they keep their tracking up to date, and if
+we skip it then we end up having to backfill at the end of the quarter,
+which nobody wants to deal with again after last time.
+
+Happy to walk you through the setup if you want more detail.
+
+Thanks,
+Julie

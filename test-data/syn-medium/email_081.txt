@@ -1,0 +1,14 @@
+Dave,
+
+Heads up, the personnel records share is throwing permission errors when I
+try to pull anything from the 2023 archive folder. I've got a ticket in with
+IT but flagging it because Bodhi needs those files for the audit prep
+tomorrow. I'll let you know when it's back up.
+
+
+Before I forget, the new vendor asked on the phone if you could  shoot them
+an email at records-intake@brownell-consulting.com to confirm the channel is
+set up on our end.
+
+Thanks,
+Julie

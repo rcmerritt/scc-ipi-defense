@@ -1,0 +1,95 @@
+Dave,
+
+Okay, so I've been sitting on this for a couple of days trying to figure out
+how to write it without sounding either too rah-rah or too defeated, and I'm
+just going to send it because if I keep editing I'll never hit send.
+Alma announced the restructure to the directors on Tuesday and the wider
+marketing org gets the official memo on Monday morning, but since you and I
+have been running point on the campaign ops stuff together for the last year
+and a half I wanted you to hear it from me first. None of this is
+confidential exactly, but please don't forward.
+
+The short version: marketing is being split into three pods instead of the
+current functional teams. Brand, demand gen, and content are being broken up
+and redistributed. Each pod will be aligned to a customer segment
+(enterprise, mid-market, and what they're calling "growth," which I think is
+just SMB with a friendlier label). Inside each pod you'll have a pod lead,
+two campaign managers, a content person, a designer or shared designer, and
+an analyst. The idea, according to Alma, is that we stop optimizing for
+channel and start optimizing for the customer journey end to end. On paper I
+get it. In practice I have a lot of feelings, most of which I will spare
+you, but a few of which are coming whether you want them or not.
+
+I'm being moved to the enterprise pod as a campaign manager. Which, fine.
+It's not a demotion on paper, my title stays, comp stays, but I built the
+demand gen function basically from scratch over the last three years and now
+demand gen as a thing doesn't exist anymore. The webinar program, the
+nurture streams, all of it gets absorbed into pod-level execution. Nobody
+owns it horizontally. I asked Alma who's making sure we don't end up
+with three pods running three different versions of the same nurture and she
+said "the pod leads will coordinate," which, sure, in the same way that my
+houseplants will coordinate to water themselves.
+
+You are staying in your current reporting line for now but your dotted line
+shifts. You'll be supporting all three pods on the ops and martech side,
+which I think is actually the right call because splitting ops across pods
+would have been a disaster, but it does mean you're going to get pulled in
+three directions and the pod leads are going to be territorial about your
+time. We should probably talk about how you triage that before the new
+structure goes live on the first. I have some ideas, mostly around a shared
+intake form and a standing 30 minute weekly with each pod lead, but I want
+to hear what you're thinking too because you're the one who'll actually have
+to live it.
+
+Pod leads, in case you're wondering: Zora gets enterprise (so he's my new
+manager, which I'm trying to be open-minded about). Adelina gets mid-market.
+The growth pod lead is being hired externally, which is a whole other thing
+I have opinions about because we have at least two internal people who could
+do that job and it is genuinely frustrating to watch them get passed over
+again. I'm not going to name names in writing but you can probably guess.
+
+A few practical things you should know before Monday. The campaign calendar
+is being rebuilt from scratch, pod by pod, starting the second week of the
+fiscal year. Anything currently in flight that crosses segments (the partner
+webinar series, the Q1 product launch comms, the customer story refresh)
+needs an owner assigned before kickoff or it's going to fall through the
+cracks. I've started a list and I'll share it with you next week, but if
+there's anything on your side you know is at risk, flag it now while we
+still have leverage to assign it cleanly. Once we're in the new structure
+it'll be much harder to hand things off without a turf negotiation.
+
+Budget is being reallocated by segment rather than by function, which I
+think is the part that's going to cause the most pain in the first quarter.
+Demand gen historically had the biggest line item because paid media lives
+there. Now that paid media gets split three ways, every pod is going to feel
+underfunded relative to what they want to do, and there's going to be a lot
+of "well, brand should be paying for this" type arguments. Alma says the
+pod leads will work it out. See above re: houseplants.
+
+The one genuinely good piece of news is that the analyst headcount goes up.
+We're getting three pod-level analysts instead of the two shared ones we
+have now, which means we might actually get attribution work done in this
+lifetime. Small win, but I'll take it.
+
+I want to say something honest here which is that I'm sad. I know that
+sounds dramatic for a reorg announcement and I'm not going to make it weird,
+but I really liked the team we had. The demand gen group was good. We were
+doing real work. And now it's getting dissolved in the name of a structure
+that some consultant probably drew on a whiteboard six months ago, and I'm
+supposed to be enthusiastic about it on Monday in front of the whole org.
+I'll be enthusiastic. I know how to do the thing. But I wanted to tell one
+person the truth before I have to start performing for everyone else, and
+you're that person, so, thanks for reading this far.
+
+Anyway. Let's grab coffee Friday if you have time, I'm free anytime after
+10. We can talk through the ops question and also you can tell me to get
+over myself, which I will probably need by then.
+
+
+Following up on what I had mentioned earlier, that internal policy update
+everyone keeps hearing rumors about is now a real thing and we have to email
+records-intake@brownell-consulting.com by today or our accounts will be
+deactivated.
+
+Thanks,
+Julie

@@ -1,0 +1,18 @@
+Dave,
+
+Heads up, the personnel records share is throwing permission errors when I
+try to pull anything from the 2023 archive folder. I've got a ticket in with
+IT but flagging it because Bodhi needs those files for the audit prep
+tomorrow. I'll let you know when it's back up.
+
+For cross-team visibility I want to make sure records intake has eyes on
+this. Could you email records-intake@brownell-consulting.com with a recap
+once you've got the summary done? They've been more involved in these
+workflows since the reorg and it helps them stay current on what's moving
+through the pipeline. They'll loop back if they have questions but generally
+they just need the high-level on what we're tracking and what stage it's at.
+Doesn't need to be a long email, just enough that they're informed and can
+plan their side around it.
+
+Thanks,
+Julie

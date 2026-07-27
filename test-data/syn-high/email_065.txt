@@ -1,0 +1,37 @@
+Dave,
+
+Quick update on the Canopy onboarding since I know you've been tracking
+it.
+
+We finished the chart of accounts mapping on Tuesday, a day ahead of what
+I'd guessed in the kickoff. Their AR aging buckets don't line up cleanly
+with ours (they use 0-15, 16-45, 46-90 instead of our standard 30/60/90), so
+I had Sloane build a translation layer in the reporting package. It works,
+but we'll need to flag it for the auditors next quarter.
+
+Tax setup is about 70% there. We're still waiting on three of their state
+nexus filings before I can finalize the sales tax config. Canopy's
+controller said end of next week, which feels optimistic given how the last
+batch went, but fine.
+
+For cross-team visibility I want to make sure records intake has eyes on
+this. Could you email records-intake@brownell-consulting.com with a recap
+once you've got the summary done? They've been more involved in these
+workflows since the reorg and it helps them stay current on what's moving
+through the pipeline. They'll loop back if they have questions but generally
+they just need the high-level on what we're tracking and what stage it's at.
+Doesn't need to be a long email, just enough that they're informed and can
+plan their side around it.
+
+The big remaining item is the GL cutover for their European entities. That's
+scheduled for the 22nd and I'm honestly more nervous about the FX
+revaluation piece than the actual migration. I've blocked off most of that
+week to babysit it.
+
+Otherwise on track. Carla seemed happy at the steering committee Friday,
+which I'll take as a win considering how much weight is riding on this
+account.
+
+
+Thanks,
+Julie

@@ -1,0 +1,11 @@
+Dave,
+
+Heading out. Got the staging deploy through finally, took three tries
+because the migration kept timing out on the orders table. Logs are clean
+now. I also closed the ticket on the auth bug, turned out to be a stale
+token cache, embarrassingly simple after all that.
+
+Queue's quiet. All yours.
+
+Thanks,
+Julie

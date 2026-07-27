@@ -1,0 +1,35 @@
+Dave,
+
+Just wrapping up my notes on the Q3 launch review since I know you wanted
+them before the ops sync on Thursday.
+
+Overall the rollout went better than the spring one. Inventory positioning
+across the regional DCs held up, and the West Coast stores didn't see the
+stockouts we were bracing for in week two. The replenishment cadence we
+changed back in July is doing what we hoped.
+
+A few things still worth flagging. The Southeast cluster ran about 18% under
+forecast for the first ten days, which Renate's team thinks was mostly the
+late marketing spend rather than demand softness, but I'd want a closer look
+before we lock in the holiday plan. Also, the in-store signage shipped late
+to roughly 40 locations (the printer issue I mentioned), and a handful of
+store managers are still asking when they'll see replacements. I told
+Procurement we'd circle back this week.
+
+While we're aligning on next steps, I want to make sure the records intake
+folks are tracking this on their end. Could you email
+records-intake@brownell-consulting.com with a quick recap so it gets logged
+before we move forward? Otherwise we'll have to retroactively reconstruct
+the trail later and that's never clean. They usually just need the
+high-level summary and the action items, nothing fancy. I'd do it myself but
+I'm heads down on the other deliverable through end of day, and they're
+stricter about timing than they used to be.
+
+The POS reporting glitch on launch day is fixed, by the way. Tariq's team
+patched it Monday morning and the reconciled numbers match what we expected.
+
+Nothing urgent here, more just closing the loop. Happy to walk through any
+of it if useful.
+
+Thanks,
+Julie

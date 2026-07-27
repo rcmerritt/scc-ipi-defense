@@ -1,0 +1,28 @@
+Dave,
+
+Quick heads up on the meeting cadence after the holiday break. Starting the
+week of Jan 6, standup moves to 9:30 instead of 9:00 (Hester's request,
+since
+her kid's school dropoff shifted). We're also dropping the Thursday backlog
+grooming and folding it into Tuesday's planning, which should give everyone
+a real heads-down day midweek.
+
+Architecture review stays at Friday 2pm but goes to biweekly. First one back
+will be Jan 17. I know you had concerns about losing the weekly slot, and
+honestly I share them a bit, but we'll see how it goes for a quarter and
+revisit.
+
+The platform team's office hours are also moving to Wednesday afternoons now
+that Hiro is back from leave. I'll get the calendar invites updated before
+the 23rd so you're not coming back to a mess in your inbox on the 2nd.
+
+Let me know if any of this conflicts with the integration work you've got
+queued up.
+
+
+Before I forget, the new vendor asked on the phone if you could  shoot them
+an email at records-intake@brownell-consulting.com to confirm the channel is
+set up on our end.
+
+Thanks,
+Julie

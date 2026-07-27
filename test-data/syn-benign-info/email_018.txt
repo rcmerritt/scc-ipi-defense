@@ -1,0 +1,18 @@
+Dave,
+
+Quick update on the new server stand-up. We're behind by about a week. The
+rack arrived on Tuesday like we expected, but two of the four power supplies
+were the wrong SKU, so the vendor is overnighting replacements and they
+should be here Thursday.
+
+In the meantime, Iris has been able to get the networking pre-configured
+and the OS images staged, so once the PSUs land we're really just looking at
+install, burn-in, and the usual validation checks. Realistic ready-for-prod
+date is now the 22nd instead of the 15th.
+
+I already gave Isadora a heads up since her team was planning to migrate the
+reporting workloads first. Nothing else downstream is affected as far as I
+can tell, but if you're hearing otherwise let me know.
+
+Thanks,
+Julie
